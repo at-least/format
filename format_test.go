@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/newlix/format"
+	"github.com/at-least/format"
 )
 
 // Test go name formatting.

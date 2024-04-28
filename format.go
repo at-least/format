@@ -26,8 +26,6 @@ var cases = []string{
 	"Uri",
 	"Url",
 	"Utf8",
-	"Pk",
-	"Sk",
 }
 
 // GoName returns a name formatted for Go.
